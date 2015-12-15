@@ -49,4 +49,8 @@ Animation using delegate methods of TextView instead of TextField action methods
     distributed under the License is distributed on an "AS IS" BASIS,
     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
     See the License for the specific language governing permissions and
+<<<<<<< Updated upstream
     limitations under the License.
+=======
+    limitations under the License.
+>>>>>>> Stashed changes

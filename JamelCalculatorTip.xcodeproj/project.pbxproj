@@ -14,6 +14,7 @@
 		19DF7EFC1C1FA4F90003030A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 19DF7EFA1C1FA4F90003030A /* LaunchScreen.storyboard */; };
 		19DF7F071C1FA4F90003030A /* JamelCalculatorTipTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 19DF7F061C1FA4F90003030A /* JamelCalculatorTipTests.swift */; };
 		19DF7F121C1FA4F90003030A /* JamelCalculatorTipUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 19DF7F111C1FA4F90003030A /* JamelCalculatorTipUITests.swift */; };
+		19DF7F5A1C1FD9DA0003030A /* SettingsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 19DF7F591C1FD9DA0003030A /* SettingsViewController.swift */; settings = {ASSET_TAGS = (); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		19DF7F0D1C1FA4F90003030A /* JamelCalculatorTipUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = JamelCalculatorTipUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		19DF7F111C1FA4F90003030A /* JamelCalculatorTipUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JamelCalculatorTipUITests.swift; sourceTree = "<group>"; };
 		19DF7F131C1FA4F90003030A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		19DF7F591C1FD9DA0003030A /* SettingsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SettingsViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +101,7 @@
 			children = (
 				19DF7EF11C1FA4F90003030A /* AppDelegate.swift */,
 				19DF7EF31C1FA4F90003030A /* ViewController.swift */,
+				19DF7F591C1FD9DA0003030A /* SettingsViewController.swift */,
 				19DF7EF51C1FA4F90003030A /* Main.storyboard */,
 				19DF7EF81C1FA4F90003030A /* Assets.xcassets */,
 				19DF7EFA1C1FA4F90003030A /* LaunchScreen.storyboard */,
@@ -260,6 +263,7 @@
 			files = (
 				19DF7EF41C1FA4F90003030A /* ViewController.swift in Sources */,
 				19DF7EF21C1FA4F90003030A /* AppDelegate.swift in Sources */,
+				19DF7F5A1C1FD9DA0003030A /* SettingsViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
